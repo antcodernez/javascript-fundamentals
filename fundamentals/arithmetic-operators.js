@@ -39,7 +39,7 @@ console.log(result.toFixed(1)); // how many numbers I want to show after the poi
 // advance operatations
 
 const squeareFrom4 = Math.sqrt(16);
-const absoluteValue = Math.abs(-7); // If I want an absolute value 
+const absoluteValue = Math.abs(43); // If I want an absolute value 
 const random = Math.random();
 
 console.log(squeareFrom4);
