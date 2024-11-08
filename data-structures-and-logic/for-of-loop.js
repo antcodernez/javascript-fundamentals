@@ -32,7 +32,7 @@ const poemMoctezuma = `
   Tendremos que desaparecer, nadie habrá de quedar.
 `;
 
-const words = poemMoctezuma.split(/\s+/); // separa el texto caundo hay un texto en blanco
+const words = poemMoctezuma.split(/\s+/); // separa el texto caundo hay un espacio en blanco
 // Cuando split separa un texto lo convierte en un array
 
 for (const letter of words) {
